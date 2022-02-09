@@ -4,5 +4,12 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #333333;
+}
+
+.slider {
+  width: 1100px;
+  height: 600px;
+  overflow: hidden;
+  border: 10px solid #ffffff;
 }
